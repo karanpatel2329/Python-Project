@@ -1,0 +1,6 @@
+btc 1.0
+ltc 20
+eth 20
+bcc 50
+miota 10
+bch 20.4
